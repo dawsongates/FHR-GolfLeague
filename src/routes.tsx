@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { Leaderboard } from "./pages/Leaderboard";
 import { Teams } from "./pages/Teams";
@@ -13,7 +13,7 @@ import { Finance } from "./pages/Finance";
 import { Analytics } from "./pages/Analytics";
 import { Matchups } from "./pages/Matchups";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     element: <Layout />,
     children: [
@@ -31,4 +31,4 @@ export const router = createBrowserRouter([
       { path: "/analytics", element: <Analytics /> },
     ],
   },
-], { basename: import.meta.env.BASE_URL });
+]);
