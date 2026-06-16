@@ -31,4 +31,4 @@ export const router = createBrowserRouter([
       { path: "/analytics", element: <Analytics /> },
     ],
   },
-]);
+], { basename: import.meta.env.BASE_URL });
