@@ -5,6 +5,12 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Golf League Tracker</title>
+    <script>
+      // Redirect to hash route for GitHub Pages compatibility
+      if (!window.location.hash) {
+        window.location.replace(window.location.href + '#/');
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
