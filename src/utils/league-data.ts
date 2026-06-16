@@ -117,9 +117,8 @@ export function loadLeague(): LeagueConfig {
   } catch {
     // corrupted data, reset
   }
-  const league = createDefaultLeague();
-  saveLeague(league);
-  return league;
+  // Don't save default to localStorage — let the hosted fetch have a chance first
+  return createDefaultLeague();
 }
 
 /** Fetch hosted league data from public/league-data.json (for visitors without localStorage) */
