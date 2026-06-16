@@ -1,0 +1,65 @@
+{
+  "properties": {
+    "title": "Golf League Rules - 2026 Season",
+    "author": "Dawson Gates",
+    "subject": "Andover Municipal Golf League Rules"
+  },
+  "styles": {
+    "font_name": "Calibri",
+    "font_size_pt": 11
+  },
+  "content": [
+    {"type": "heading", "level": 1, "text": "Golf League Rules — 2026 Season"},
+    {"type": "paragraph", "text": "Andover Municipal Golf Course • Wednesdays • 9 Holes", "italic": true},
+    {"type": "heading", "level": 2, "text": "Mulligans"},
+    {"type": "paragraph", "text": "Everyone gets 1 free mulligan to use each week. You CAN use mulligans for putts this year."},
+    {"type": "heading", "level": 2, "text": "Hazards / Out of Bounds"},
+    {"type": "paragraph", "text": "For pace of play, if you hit into the water, out of bounds, or anywhere the ball gets lost — take a 1 stroke penalty and drop roughly around where you think the ball would have been. Don't worry about re-hitting from where you originally hit."},
+    {"type": "list", "style": "bullet", "items": [
+      "Hole 1: If you don't make it over the water, do NOT re-tee. Go to the other side of the water and hit from there.",
+      "If you are in someone's backyard without a fence (hole 4 for example) — move your ball back to the fairway, take a 1 stroke penalty, and hit from there.",
+      "Consider being a smart shot taker on the narrower holes near houses. You may not need to hit driver on every par 4."
+    ]},
+    {"type": "heading", "level": 2, "text": "Club Length"},
+    {"type": "paragraph", "text": "Play the ball 'up' at a club length — meaning you can move your ball on every shot to find a nice lie. You can move your ball within one club's length of where it was, no closer to the hole."},
+    {"type": "list", "style": "bullet", "items": [
+      "You CAN move from the rough into the fairway if it is within a club's length.",
+      "You CANNOT move the ball onto the green."
+    ]},
+    {"type": "heading", "level": 2, "text": "Match Play"},
+    {"type": "paragraph", "text": "Play your own ball the entire round. Player A plays against the opposing team's Player A, and Player B plays against their Player B. Keep track of your gross score on each hole and let the commissioner factor in the handicap."},
+    {"type": "paragraph", "text": "Write down your gross score (what you actually got on the hole), NOT your net score with handicap applied.", "bold": true},
+    {"type": "heading", "level": 2, "text": "Scoring"},
+    {"type": "paragraph", "text": "Each weekly match is worth a total of 6 bonus points, split across three sub-matches:"},
+    {"type": "table", "headers": ["Sub-Match", "Points Available", "Description"], "rows": [
+      ["Player A vs Player A", "2 points", "Lower net score wins. If tied, each team gets 1 point."],
+      ["Player B vs Player B", "2 points", "Lower net score wins. If tied, each team gets 1 point."],
+      ["Team Total", "2 points", "Combined net score of both players. Lower total wins. If tied, each team gets 1 point."]
+    ]},
+    {"type": "paragraph", "text": "The winner of each sub-match earns 2 points; the loser gets 0. If a sub-match is tied, each team gets 1 point. A team can earn anywhere from 0 to 6 bonus points per week."},
+    {"type": "paragraph", "text": "Season standings are determined by cumulative net-vs-par score PLUS total bonus points earned across all weeks. Bonus points reward head-to-head competition on top of raw scoring performance."},
+    {"type": "heading", "level": 3, "text": "Handicaps"},
+    {"type": "paragraph", "text": "Handicaps are calculated as: MIN(20, TRUNC(0.85 × (Average Gross Score − Course Par)))"},
+    {"type": "list", "style": "bullet", "items": [
+      "Handicaps update each week based on all rounds played (including pre-season scores).",
+      "Negative (plus) handicaps are allowed for players who average below par.",
+      "The A player on each team is the one with the lower handicap that week. This can change week to week.",
+      "Max handicap is capped at 20."
+    ]},
+    {"type": "heading", "level": 3, "text": "Net Score"},
+    {"type": "paragraph", "text": "Net Score = Gross Score − Handicap. Net vs Par = Net Score − 33 (course par). A negative net vs par means you played better than par after handicap adjustment."},
+    {"type": "heading", "level": 2, "text": "Gimmes"},
+    {"type": "paragraph", "text": "Gimme putts are at the discretion of your opponent. If they say pick it up, it counts as made. If they don't offer, you putt it out."},
+    {"type": "heading", "level": 2, "text": "Double Par Maximum"},
+    {"type": "paragraph", "text": "For pace of play, pick up your ball after reaching double par on any hole:"},
+    {"type": "table", "headers": ["Hole Type", "Par", "Max Score (Pick Up At)"], "rows": [
+      ["Par 3", "3", "6"],
+      ["Par 4", "4", "8"]
+    ]},
+    {"type": "paragraph", "text": "Record the double par score for that hole and move on. This keeps the round moving for everyone."},
+    {"type": "heading", "level": 2, "text": "Pace of Play"},
+    {"type": "paragraph", "text": "Be mindful of the groups behind you. If you fall a full hole behind the group ahead, let faster groups play through. Ready golf is encouraged — hit when you're ready, don't wait for honors."},
+    {"type": "heading", "level": 2, "text": "Substitutes"},
+    {"type": "paragraph", "text": "If you can't make a week, find a sub or let the commissioner know. Subs play with your team's partner and their scores/handicaps are tracked separately. Your team still earns bonus points with a sub playing."}
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+  "season": "2026",
+  "courseName": "Andover Municipal Golf Course",
+  "course": {
+    "name": "Andover Municipal Golf Course",
+    "holes": [
+      {
+        "number": 1,
+        "par": 4,
+        "yards": 270,
+        "hdcp": 8
+      },
+      {
+        "number": 2,
+        "par": 4,
+        "yards": 205,
+        "hdcp": 7
+      },
+      {
+        "number": 3,
+        "par": 3,
+        "yards": 170,
+        "hdcp": 6
+      },
+      {
+        "number": 4,
+        "par": 4,
+        "yards": 288,
+        "hdcp": 5
+      },
+      {
+        "number": 5,
+        "par": 4,
+        "yards": 360,
+        "hdcp": 1
+      },
+      {
+        "number": 6,
+        "par": 3,
+        "yards": 155,
+        "hdcp": 4
+      },
+      {
+        "number": 7,
+        "par": 4,
+        "yards": 320,
+        "hdcp": 2
+      },
+      {
+        "number": 8,
+        "par": 3,
+        "yards": 190,
+        "hdcp": 3
+      },
+      {
+        "number": 9,
+        "par": 4,
+        "yards": 290,
+        "hdcp": 9
+      }
+    ],
+    "totalPar": 33
+  },
+  "teams": [
+    {
+      "id": "t1",
+      "name": "Gates / Ensz",
+      "playerA": {
+        "id": "p1a",
+        "name": "Dawson Gates",
+        "role": "A",
+        "teamId": "t1"
+      },
+      "playerB": {
+        "id": "p1b",
+        "name": "Colton Ensz",
+        "role": "B",
+        "teamId": "t1"
+      }
+    },
+    {
+      "id": "t2",
+      "name": "Ricke / Severson",
+      "playerA": {
+        "id": "p2a",
+        "name": "Justin Ricke",
+        "role": "A",
+        "teamId": "t2"
+      },
+      "playerB": {
+        "id": "p2b",
+        "name": "Todd Severson",
+        "role": "B",
+        "teamId": "t2"
+      }
+    },
+    {
+      "id": "t3",
+      "name": "Dort / Cherico",
+      "playerA": {
+        "id": "p3a",
+        "name": "Rob Dort",
+        "role": "A",
+        "teamId": "t3"
+      },
+      "playerB": {
+        "id": "p3b",
+        "name": "Jeff Cherico",
+        "role": "B",
+        "teamId": "t3"
+      }
+    },
+    {
+      "id": "t4",
+      "name": "Palmer / Palmquist",
+      "playerA": {
+        "id": "p4a",
+        "name": "Chris Palmer",
+        "role": "A",
+        "teamId": "t4"
+      },
+      "playerB": {
+        "id": "p4b",
+        "name": "Eric Palmquist",
+        "role": "B",
+        "teamId": "t4"
+      }
+    },
+    {
+      "id": "t6",
+      "name": "Snell / Dang",
+      "playerA": {
+        "id": "p6a",
+        "name": "Brendan Snell",
+        "role": "A",
+        "teamId": "t6"
+      },
+      "playerB": {
+        "id": "p6b",
+        "name": "Nicholas Dang",
+        "role": "B",
+        "teamId": "t6"
+      }
+    },
+    {
+      "id": "t7",
+      "name": "Jahnke / Butler",
+      "playerA": {
+        "id": "p7a",
+        "name": "Josh Jahnke",
+        "role": "A",
+        "teamId": "t7"
+      },
+      "playerB": {
+        "id": "p7b",
+        "name": "Matthew Butler",
+        "role": "B",
+        "teamId": "t7"
+      }
+    },
+    {
+      "id": "t8",
+      "name": "Fuller / Karst",
+      "playerA": {
+        "id": "p8a",
+        "name": "Brandon Fuller",
+        "role": "A",
+        "teamId": "t8"
+      },
+      "playerB": {
+        "id": "p8b",
+        "name": "Alex Karst",
+        "role": "B",
+        "teamId": "t8"
+      }
+    },
+    {
+      "id": "t9",
+      "name": "Shepherd / Lawrence",
+      "playerA": {
+        "id": "p9a",
+        "name": "Mike Shepherd",
+        "role": "A",
+        "teamId": "t9"
+      },
+      "playerB": {
+        "id": "p9b",
+        "name": "Davian Lawrence",
+        "role": "B",
+        "teamId": "t9"
+      }
+    },
+    {
+      "id": "tmp36h4u7",
+      "name": "Bell / Munn",
+      "playerA": {
+        "id": "tmp36h4u7a",
+        "name": "Michael Bell",
+        "role": "A",
+        "teamId": "tmp36h4u7"
+      },
+      "playerB": {
+        "id": "tmp36h4u7b",
+        "name": "Rick Munn",
+        "role": "B",
+        "teamId": "tmp36h4u7"
+      }
+    },
+    {
+      "id": "tmp3ghtep",
+      "name": "Conley / Hornung",
+      "playerA": {
+        "id": "tmp3ghtepa",
+        "name": "Jude Conley",
+        "role": "A",
+        "teamId": "tmp3ghtep"
+      },
+      "playerB": {
+        "id": "tmp3ghtepb",
+        "name": "Nico Hornung",
+        "role": "B",
+        "teamId": "tmp3ghtep"
+      }
+    },
+    {
+      "id": "tmp3gii18",
+      "name": "Sebastian / Young",
+      "playerA": {
+        "id": "tmp3gii18a",
+        "name": "Adan Sebastian",
+        "role": "A",
+        "teamId": "tmp3gii18"
+      },
+      "playerB": {
+        "id": "tmp3gii18b",
+        "name": "Tanner Young",
+        "role": "B",
+        "teamId": "tmp3gii18"
+      }
+    },
+    {
+      "id": "tmp4hjncp",
+      "name": "Binau / Binau",
+      "playerA": {
+        "id": "tmp4hjncpa",
+        "name": "Mark Binau",
+        "role": "A",
+        "teamId": "tmp4hjncp"
+      },
+      "playerB": {
+        "id": "tmp4hjncpb",
+        "name": "Steven Binau",
+        "role": "B",
+        "teamId": "tmp4hjncp"
+      }
+    },
+    {
+      "id": "tmp4mc83a",
+      "name": "Hobbs / Brakebill",
+      "playerA": {
+        "id": "tmp4mc83aa",
+        "name": "Stacey Hobbs",
+        "role": "A",
+        "teamId": "tmp4mc83a"
+      },
+      "playerB": {
+        "id": "tmp4mc83ab",
+        "name": "Rebekah Brakebill",
+        "role": "B",
+        "teamId": "tmp4mc83a"
+      }
+    },
+    {
+      "id": "tmp5urak7",
+      "name": "Sontag / Hader",
+      "playerA": {
+        "id": "tmp5urak7a",
+        "name": "Tyler Sontag",
+        "role": "A",
+        "teamId": "tmp5urak7"
+      },
+      "playerB": {
+        "id": "tmp5urak7b",
+        "name": "Brad Hader",
+        "role": "B",
+        "teamId": "tmp5urak7"
+      }
+    },
+    {
+      "id": "tmp5utopc",
+      "name": "Boley / Cook",
+      "playerA": {
+        "id": "tmp5utopca",
+        "name": "Clay Boley",
+        "role": "A",
+        "teamId": "tmp5utopc"
+      },
+      "playerB": {
+        "id": "tmp5utopcb",
+        "name": "Travis Cook",
+        "role": "B",
+        "teamId": "tmp5utopc"
+      }
+    },
+    {
+      "id": "tmpula7qh",
+      "name": "Bhargava / Larson",
+      "playerA": {
+        "id": "tmpula7qha",
+        "name": "Gavin Bhargava",
+        "role": "A",
+        "teamId": "tmpula7qh"
+      },
+      "playerB": {
+        "id": "tmpula7qhb",
+        "name": "TJ Larson",
+        "role": "B",
+        "teamId": "tmpula7qh"
+      }
+    }
+  ],
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "date": "2026-06-10",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 2,
+      "date": "2026-06-17",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 3,
+      "date": "2026-06-24",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 4,
+      "date": "2026-07-01",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 5,
+      "date": "2026-07-08",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 6,
+      "date": "2026-07-15",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 7,
+      "date": "2026-07-22",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    },
+    {
+      "weekNumber": 8,
+      "date": "2026-07-29",
+      "matches": [],
+      "scores": [],
+      "isPlayoff": false
+    }
+  ],
+  "handicaps": {
+    "p1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p1b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p2a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p2b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p3a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p3b": [
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p4a": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p4b": [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p6a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p6b": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p7a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p7b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p8a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p8b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p9a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "p9b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp36h4u7a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp36h4u7b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp3ghtepa": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp3ghtepb": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp3gii18a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp3gii18b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp4hjncpa": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp4hjncpb": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp4mc83aa": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp4mc83ab": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp5urak7a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp5urak7b": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp5utopca": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmp5utopcb": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmpula7qha": [
+      11,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tmpula7qhb": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpak1c6q": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpak2cb9": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpak2yeo": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpak3e6h": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpakk3h2": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpakkahy": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "submpalo414": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "seedHandicaps": {
+    "p1a": 0,
+    "p1b": 0,
+    "p2a": 0,
+    "p2b": 0,
+    "p3a": 0,
+    "p3b": 0,
+    "p4a": 0,
+    "p4b": 0,
+    "p5a": 0,
+    "p5b": 0,
+    "p6a": 0,
+    "p6b": 0,
+    "p7a": 0,
+    "p7b": 0,
+    "p8a": 0,
+    "p8b": 0,
+    "tmp3ghtepa": 0,
+    "p9a": 0,
+    "p9b": 0,
+    "tmp36h4u7a": 0,
+    "tmp36h4u7b": 0,
+    "tmp3ghtepb": 0,
+    "tmp3gii18a": 0,
+    "tmp3gii18b": 0,
+    "submp60ebqm": 6,
+    "submpak1c6q": 0,
+    "submpak2cb9": 0,
+    "submpak2yeo": 0,
+    "submpak3e6h": 0,
+    "submpak41mv": 0,
+    "submpakk3h2": 0,
+    "submpakkahy": 0,
+    "submpalo414": 0
+  },
+  "handicapOverrides": {
+    "p1a": {}
+  },
+  "subs": [
+    {
+      "id": "submpak1c6q",
+      "name": "James Pfeifer"
+    },
+    {
+      "id": "submpak2cb9",
+      "name": "Rich Godfrey"
+    },
+    {
+      "id": "submpak2yeo",
+      "name": "Nathan Hahn"
+    },
+    {
+      "id": "submpak3e6h",
+      "name": "Bret Kotrba"
+    },
+    {
+      "id": "submpakk3h2",
+      "name": "Ethan Perry"
+    },
+    {
+      "id": "submpakkahy",
+      "name": "Ryan Rader"
+    },
+    {
+      "id": "submpalo414",
+      "name": "TBD"
+    }
+  ],
+  "weekSubs": [
+    {
+      "weekNumber": 1,
+      "teamId": "t2",
+      "absentPlayerId": "p2a",
+      "subPlayerId": "submpalo414"
+    },
+    {
+      "weekNumber": 2,
+      "teamId": "t3",
+      "absentPlayerId": "p3a",
+      "subPlayerId": "submpalo414"
+    },
+    {
+      "weekNumber": 1,
+      "teamId": "t1",
+      "absentPlayerId": "p1a",
+      "subPlayerId": "submpak2yeo"
+    }
+  ],
+  "preSeasonScores": {
+    "p3b": 43,
+    "p4a": 40,
+    "p4b": 46,
+    "p6b": 37,
+    "tmpula7qha": 46
+  },
+  "schedule": [
+    {
+      "weekNumber": 1,
+      "matchups": [
+        {
+          "team1Id": "t7",
+          "team2Id": "tmp3ghtep",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "tmp36h4u7",
+          "team2Id": "tmp3gii18",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "tmp4mc83a",
+          "team2Id": "t4",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "t3",
+          "team2Id": "t8",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t9",
+          "team2Id": "tmp4hjncp",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "tmpula7qh",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmp5urak7",
+          "team2Id": "tmp5utopc",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "t6",
+          "team2Id": "t2",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "matchups": [
+        {
+          "team1Id": "tmp4mc83a",
+          "team2Id": "t3",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "tmp4hjncp",
+          "team2Id": "t8",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "tmp5urak7",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "t9",
+          "team2Id": "tmp3ghtep",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t2",
+          "team2Id": "t4",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t6",
+          "team2Id": "t7",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmp3gii18",
+          "team2Id": "tmp5utopc",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "tmp36h4u7",
+          "team2Id": "tmpula7qh",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "matchups": [
+        {
+          "team1Id": "tmp3gii18",
+          "team2Id": "tmp5urak7",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "t8",
+          "team2Id": "tmp3ghtep",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "tmp4hjncp",
+          "team2Id": "tmp4mc83a",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "tmp5utopc",
+          "team2Id": "tmpula7qh",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "tmp36h4u7",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t9",
+          "team2Id": "t6",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "t2",
+          "team2Id": "t3",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "t4",
+          "team2Id": "t7",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "matchups": [
+        {
+          "team1Id": "t6",
+          "team2Id": "tmp4hjncp",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "tmp36h4u7",
+          "team2Id": "t9",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "t3",
+          "team2Id": "t4",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "tmpula7qh",
+          "team2Id": "t8",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "tmp3ghtep",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t7",
+          "team2Id": "tmp5utopc",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmp5urak7",
+          "team2Id": "t2",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "tmp4mc83a",
+          "team2Id": "tmp3gii18",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "matchups": [
+        {
+          "team1Id": "tmp5utopc",
+          "team2Id": "t2",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "tmp5urak7",
+          "team2Id": "tmp4mc83a",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "t7",
+          "team2Id": "tmp36h4u7",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "tmp3ghtep",
+          "team2Id": "tmp4hjncp",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t8",
+          "team2Id": "tmp3gii18",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t3",
+          "team2Id": "t6",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmpula7qh",
+          "team2Id": "t9",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "t4",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "matchups": [
+        {
+          "team1Id": "tmp36h4u7",
+          "team2Id": "t4",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "t9",
+          "team2Id": "t2",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "t3",
+          "team2Id": "tmpula7qh",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "tmp5urak7",
+          "team2Id": "tmp3ghtep",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "t6",
+          "team2Id": "tmp5utopc",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "t7",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmp4mc83a",
+          "team2Id": "t8",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "tmp4hjncp",
+          "team2Id": "tmp3gii18",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "matchups": [
+        {
+          "team1Id": "t1",
+          "team2Id": "tmp3gii18",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "t4",
+          "team2Id": "t9",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "tmpula7qh",
+          "team2Id": "tmp5urak7",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "t2",
+          "team2Id": "tmp4hjncp",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "tmp5utopc",
+          "team2Id": "tmp36h4u7",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t7",
+          "team2Id": "t3",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "t8",
+          "team2Id": "t6",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "tmp3ghtep",
+          "team2Id": "tmp4mc83a",
+          "startingHole": 9
+        }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "matchups": [
+        {
+          "team1Id": "t8",
+          "team2Id": "t4",
+          "startingHole": 1
+        },
+        {
+          "team1Id": "t1",
+          "team2Id": "tmp5utopc",
+          "startingHole": 2
+        },
+        {
+          "team1Id": "tmpula7qh",
+          "team2Id": "tmp3gii18",
+          "startingHole": 3
+        },
+        {
+          "team1Id": "tmp5urak7",
+          "team2Id": "tmp36h4u7",
+          "startingHole": 4
+        },
+        {
+          "team1Id": "tmp3ghtep",
+          "team2Id": "t2",
+          "startingHole": 6
+        },
+        {
+          "team1Id": "t3",
+          "team2Id": "t9",
+          "startingHole": 7
+        },
+        {
+          "team1Id": "tmp4mc83a",
+          "team2Id": "t6",
+          "startingHole": 8
+        },
+        {
+          "team1Id": "t7",
+          "team2Id": "tmp4hjncp",
+          "startingHole": 9
+        }
+      ]
+    }
+  ]
+}
