@@ -222,11 +222,17 @@ export function getWeeklyRoles(
   team: Team,
   weekNumber: number,
 ): { playerA: Player; playerB: Player } {
-  const hcpA = getPlayerHandicap(league, team.playerA.id, weekNumber);
-  const hcpB = getPlayerHandicap(league, team.playerB.id, weekNumber);
+  // Resolve who's ACTUALLY playing in each slot (handles subs)
+  const activeForA = getActivePlayer(league, team.id, team.playerA, weekNumber).player;
+  const activeForB = getActivePlayer(league, team.id, team.playerB, weekNumber).player;
+
+  // Compare handicaps of ACTIVE players (not roster players)
+  const hcpA = getPlayerHandicap(league, activeForA.id, weekNumber);
+  const hcpB = getPlayerHandicap(league, activeForB.id, weekNumber);
 
   if (hcpB < hcpA) {
-    // B has lower handicap this week, so B becomes the A role
+    // Person in B's slot has lower handicap → swap roster order
+    // (returning roster players so downstream getActivePlayer still resolves correctly)
     return { playerA: team.playerB, playerB: team.playerA };
   }
   // Default: original assignment (including ties)
