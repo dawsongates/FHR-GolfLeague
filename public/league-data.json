@@ -12426,8 +12426,1730 @@
     {
       "weekNumber": 8,
       "date": "2026-07-29",
-      "matches": [],
-      "scores": [],
+      "matches": [
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "t2",
+          "team2Id": "tmp5utopc",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": -3,
+              "team2Net": -5
+            },
+            {
+              "type": "B",
+              "team1Pts": 1,
+              "team2Pts": 1,
+              "team1Net": 0,
+              "team2Net": 0
+            },
+            {
+              "type": "total",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": -3,
+              "team2Net": -5
+            }
+          ],
+          "team1BonusPoints": 1,
+          "team2BonusPoints": 5
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "tmp4hjncp",
+          "team2Id": "tmp36h4u7",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 1,
+              "team2Pts": 1,
+              "team1Net": -1,
+              "team2Net": -1
+            },
+            {
+              "type": "B",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 3,
+              "team2Net": -7
+            },
+            {
+              "type": "total",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 2,
+              "team2Net": -8
+            }
+          ],
+          "team1BonusPoints": 1,
+          "team2BonusPoints": 5
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "tmp4mc83a",
+          "team2Id": "tmp3gii18",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 23,
+              "team2Net": 2
+            },
+            {
+              "type": "B",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 23,
+              "team2Net": 3
+            },
+            {
+              "type": "total",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 46,
+              "team2Net": 5
+            }
+          ],
+          "team1BonusPoints": 0,
+          "team2BonusPoints": 6
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "tmp5urak7",
+          "team2Id": "t8",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 2,
+              "team2Net": -1
+            },
+            {
+              "type": "B",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 3,
+              "team2Net": 2
+            },
+            {
+              "type": "total",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 5,
+              "team2Net": 1
+            }
+          ],
+          "team1BonusPoints": 0,
+          "team2BonusPoints": 6
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "t7",
+          "team2Id": "tmpula7qh",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 1,
+              "team2Pts": 1,
+              "team1Net": 1,
+              "team2Net": 1
+            },
+            {
+              "type": "B",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 0,
+              "team2Net": -2
+            },
+            {
+              "type": "total",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 1,
+              "team2Net": -1
+            }
+          ],
+          "team1BonusPoints": 1,
+          "team2BonusPoints": 5
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "t6",
+          "team2Id": "t9",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 1,
+              "team2Pts": 1,
+              "team1Net": -1,
+              "team2Net": -1
+            },
+            {
+              "type": "B",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -5,
+              "team2Net": 0
+            },
+            {
+              "type": "total",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -6,
+              "team2Net": -1
+            }
+          ],
+          "team1BonusPoints": 5,
+          "team2BonusPoints": 1
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "tmp3ghtep",
+          "team2Id": "t3",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 2,
+              "team2Net": -3
+            },
+            {
+              "type": "B",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -4,
+              "team2Net": 7
+            },
+            {
+              "type": "total",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -2,
+              "team2Net": 4
+            }
+          ],
+          "team1BonusPoints": 4,
+          "team2BonusPoints": 2
+        },
+        {
+          "id": "mms6use6t",
+          "weekNumber": 8,
+          "team1Id": "t4",
+          "team2Id": "t1",
+          "details": [
+            {
+              "type": "A",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -5,
+              "team2Net": 4
+            },
+            {
+              "type": "B",
+              "team1Pts": 0,
+              "team2Pts": 2,
+              "team1Net": 4,
+              "team2Net": -1
+            },
+            {
+              "type": "total",
+              "team1Pts": 2,
+              "team2Pts": 0,
+              "team1Net": -1,
+              "team2Net": 3
+            }
+          ],
+          "team1BonusPoints": 4,
+          "team2BonusPoints": 2
+        }
+      ],
+      "scores": [
+        {
+          "playerId": "p1a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 39,
+          "handicap": 2,
+          "net": 37,
+          "netVsPar": 4
+        },
+        {
+          "playerId": "p1b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 6
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 5
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 44,
+          "handicap": 12,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "submqpqkv9h",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 5
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 41,
+          "handicap": 8,
+          "net": 33,
+          "netVsPar": 0
+        },
+        {
+          "playerId": "p2b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 36,
+          "handicap": 6,
+          "net": 30,
+          "netVsPar": -3
+        },
+        {
+          "playerId": "p3a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 33,
+          "handicap": 3,
+          "net": 30,
+          "netVsPar": -3
+        },
+        {
+          "playerId": "p3b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 8
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 5
+            },
+            {
+              "hole": 6,
+              "gross": 6
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 6
+            }
+          ],
+          "gross": 48,
+          "handicap": 8,
+          "net": 40,
+          "netVsPar": 7
+        },
+        {
+          "playerId": "p4a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 2
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 32,
+          "handicap": 4,
+          "net": 28,
+          "netVsPar": -5
+        },
+        {
+          "playerId": "submpyw8307",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 6
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 2
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 6
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 43,
+          "handicap": 6,
+          "net": 37,
+          "netVsPar": 4
+        },
+        {
+          "playerId": "p6a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 3
+            }
+          ],
+          "gross": 36,
+          "handicap": 8,
+          "net": 28,
+          "netVsPar": -5
+        },
+        {
+          "playerId": "p6b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 3
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 6
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 35,
+          "handicap": 3,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "p7a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 3
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 6
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 39,
+          "handicap": 5,
+          "net": 34,
+          "netVsPar": 1
+        },
+        {
+          "playerId": "p7b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 40,
+          "handicap": 7,
+          "net": 33,
+          "netVsPar": 0
+        },
+        {
+          "playerId": "p8a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 2
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 37,
+          "handicap": 5,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "p8b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 6
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 43,
+          "handicap": 8,
+          "net": 35,
+          "netVsPar": 2
+        },
+        {
+          "playerId": "p9a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 3
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 35,
+          "handicap": 3,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "p9b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 6
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 43,
+          "handicap": 10,
+          "net": 33,
+          "netVsPar": 0
+        },
+        {
+          "playerId": "tmp36h4u7a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 5
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 3
+            }
+          ],
+          "gross": 40,
+          "handicap": 14,
+          "net": 26,
+          "netVsPar": -7
+        },
+        {
+          "playerId": "tmp36h4u7b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 7
+            },
+            {
+              "hole": 3,
+              "gross": 5
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 45,
+          "handicap": 13,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "tmp3ghtepa",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 3
+            }
+          ],
+          "gross": 39,
+          "handicap": 4,
+          "net": 35,
+          "netVsPar": 2
+        },
+        {
+          "playerId": "tmp3ghtepb",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 5
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 3
+            }
+          ],
+          "gross": 35,
+          "handicap": 6,
+          "net": 29,
+          "netVsPar": -4
+        },
+        {
+          "playerId": "tmp3gii18a",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 42,
+          "handicap": 7,
+          "net": 35,
+          "netVsPar": 2
+        },
+        {
+          "playerId": "tmp3gii18b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 6
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 6
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 6
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 7
+            }
+          ],
+          "gross": 47,
+          "handicap": 11,
+          "net": 36,
+          "netVsPar": 3
+        },
+        {
+          "playerId": "tmp4hjncpa",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 5
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 37,
+          "handicap": 5,
+          "net": 32,
+          "netVsPar": -1
+        },
+        {
+          "playerId": "tmp4hjncpb",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 6
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 41,
+          "handicap": 5,
+          "net": 36,
+          "netVsPar": 3
+        },
+        {
+          "playerId": "submqqnmwry",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 8
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 5
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 6
+            },
+            {
+              "hole": 7,
+              "gross": 8
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 8
+            }
+          ],
+          "gross": 56,
+          "handicap": 0,
+          "net": 56,
+          "netVsPar": 23
+        },
+        {
+          "playerId": "submqqnmwry",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 8
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 5
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 6
+            },
+            {
+              "hole": 7,
+              "gross": 8
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 8
+            }
+          ],
+          "gross": 56,
+          "handicap": 0,
+          "net": 56,
+          "netVsPar": 23
+        },
+        {
+          "playerId": "submraqu3ji",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 6
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 4
+            },
+            {
+              "hole": 8,
+              "gross": 4
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 41,
+          "handicap": 6,
+          "net": 35,
+          "netVsPar": 2
+        },
+        {
+          "playerId": "tmp5urak7b",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 6
+            },
+            {
+              "hole": 4,
+              "gross": 6
+            },
+            {
+              "hole": 5,
+              "gross": 6
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 48,
+          "handicap": 12,
+          "net": 36,
+          "netVsPar": 3
+        },
+        {
+          "playerId": "tmp5utopca",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 5
+            },
+            {
+              "hole": 2,
+              "gross": 5
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 4
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 4
+            }
+          ],
+          "gross": 38,
+          "handicap": 10,
+          "net": 28,
+          "netVsPar": -5
+        },
+        {
+          "playerId": "tmp5utopcb",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 6
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 7
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 3
+            },
+            {
+              "hole": 8,
+              "gross": 6
+            },
+            {
+              "hole": 9,
+              "gross": 8
+            }
+          ],
+          "gross": 47,
+          "handicap": 14,
+          "net": 33,
+          "netVsPar": 0
+        },
+        {
+          "playerId": "tmpula7qha",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 4
+            },
+            {
+              "hole": 2,
+              "gross": 4
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 4
+            },
+            {
+              "hole": 5,
+              "gross": 4
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 5
+            },
+            {
+              "hole": 8,
+              "gross": 5
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 38,
+          "handicap": 7,
+          "net": 31,
+          "netVsPar": -2
+        },
+        {
+          "playerId": "tmpula7qhb",
+          "weekNumber": 8,
+          "holes": [
+            {
+              "hole": 1,
+              "gross": 3
+            },
+            {
+              "hole": 2,
+              "gross": 6
+            },
+            {
+              "hole": 3,
+              "gross": 4
+            },
+            {
+              "hole": 4,
+              "gross": 5
+            },
+            {
+              "hole": 5,
+              "gross": 3
+            },
+            {
+              "hole": 6,
+              "gross": 3
+            },
+            {
+              "hole": 7,
+              "gross": 6
+            },
+            {
+              "hole": 8,
+              "gross": 3
+            },
+            {
+              "hole": 9,
+              "gross": 5
+            }
+          ],
+          "gross": 38,
+          "handicap": 4,
+          "net": 34,
+          "netVsPar": 1
+        }
+      ],
       "isPlayoff": false
     }
   ],
@@ -12452,7 +14174,7 @@
       12,
       12,
       12,
-      12
+      11
     ],
     "p2a": [
       15,
@@ -12474,7 +14196,7 @@
       6,
       6,
       6,
-      6
+      5
     ],
     "p3a": [
       3,
@@ -12507,7 +14229,7 @@
       4,
       4,
       4,
-      4
+      3
     ],
     "p4b": [
       11,
@@ -12562,7 +14284,7 @@
       7,
       7,
       7,
-      7
+      6
     ],
     "p8a": [
       6,
@@ -12606,7 +14328,7 @@
       11,
       10,
       10,
-      10
+      9
     ],
     "tmp36h4u7a": [
       15,
@@ -12617,7 +14339,7 @@
       14,
       14,
       14,
-      14
+      13
     ],
     "tmp36h4u7b": [
       19,
@@ -12650,7 +14372,7 @@
       6,
       6,
       6,
-      6
+      5
     ],
     "tmp3gii18a": [
       7,
@@ -12694,7 +14416,7 @@
       5,
       5,
       5,
-      5
+      6
     ],
     "tmp4mc83aa": [
       13,
@@ -12749,7 +14471,7 @@
       10,
       9,
       10,
-      10
+      9
     ],
     "tmp5utopcb": [
       16,
@@ -12881,7 +14603,7 @@
       6,
       6,
       6,
-      6
+      7
     ],
     "submq6zz94l": [
       11,
@@ -12969,7 +14691,7 @@
       0,
       0,
       0,
-      0
+      19
     ],
     "submraqu3ji": [
       8,
@@ -13246,6 +14968,36 @@
       "teamId": "t2",
       "absentPlayerId": "p2b",
       "subPlayerId": "submq6zz94l"
+    },
+    {
+      "weekNumber": 8,
+      "teamId": "t4",
+      "absentPlayerId": "p4b",
+      "subPlayerId": "submpyw8307"
+    },
+    {
+      "weekNumber": 8,
+      "teamId": "tmp5urak7",
+      "absentPlayerId": "tmp5urak7a",
+      "subPlayerId": "submraqu3ji"
+    },
+    {
+      "weekNumber": 8,
+      "teamId": "t2",
+      "absentPlayerId": "p2a",
+      "subPlayerId": "submqpqkv9h"
+    },
+    {
+      "weekNumber": 8,
+      "teamId": "tmp4mc83a",
+      "absentPlayerId": "tmp4mc83aa",
+      "subPlayerId": "submqqnmwry"
+    },
+    {
+      "weekNumber": 8,
+      "teamId": "tmp4mc83a",
+      "absentPlayerId": "tmp4mc83ab",
+      "subPlayerId": "submqqnmwry"
     }
   ],
   "preSeasonScores": {
@@ -13689,7 +15441,7 @@
     },
     {
       "weekNumber": 8,
-      "text": "Needs subs - Stacey, Palquist, Ricke, rebekah\n\nFuture enhancements - add movement icons on teams that moved up or down from last week on leaderboard like stocks, clean up the hdcp analytics \nways to see better weekly moves and updates, have hdcp calc take best X % of scores rather than avg all, show the team record on leaderboard. \nMatch play currently takes net score v net score - not hole v hole - needs to change (?)"
+      "text": "Needs subs - Stacey, Palquist, Ricke, rebekah, Sontag\n\nFuture enhancements - add movement icons on teams that moved up or down from last week on leaderboard like stocks, clean up the hdcp analytics \nways to see better weekly moves and updates, have hdcp calc take best X % of scores rather than avg all, show the team record on leaderboard. \nMatch play currently takes net score v net score - not hole v hole - needs to change (?)\n- add individual head to head stats per team, right now it is just net score (way to filter the player averages on each column, not just avg gross)\n- add a leaderboard of individual running gross and net score, the analytics page is just filtered by best overall one time score. someone is net -3 and should be ranked above someone at net +1"
     }
   ],
   "payments": []
