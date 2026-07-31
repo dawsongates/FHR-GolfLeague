@@ -333,8 +333,11 @@ export function computeLeaderboard(league: LeagueConfig) {
     const weeklyBreakdown: { week: number; netVsPar: number; bonus: number }[] = [];
 
     for (const week of league.weeks) {
-      const playerAScore = week.scores.find((s) => s.playerId === team.playerA.id);
-      const playerBScore = week.scores.find((s) => s.playerId === team.playerB.id);
+      // Resolve active players (handles subs) so their scores count for the team
+      const activeA = getActivePlayer(league, team.id, team.playerA, week.weekNumber).player;
+      const activeB = getActivePlayer(league, team.id, team.playerB, week.weekNumber).player;
+      const playerAScore = week.scores.find((s) => s.playerId === activeA.id);
+      const playerBScore = week.scores.find((s) => s.playerId === activeB.id);
 
       if (!playerAScore && !playerBScore) continue;
 
