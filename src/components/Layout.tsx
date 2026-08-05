@@ -28,6 +28,7 @@ import ScheduleIcon from "@mui/icons-material/ViewTimeline";
 import NotesIcon from "@mui/icons-material/StickyNote2";
 import AttachMoneyIcon from "@mui/icons-material/AttachMoney";
 import ScorecardIcon from "@mui/icons-material/ContentPaste";
+import SportsGolfIcon from "@mui/icons-material/SportsGolf";
 import { useRef, useState } from "react";
 import { Outlet, useNavigate, useLocation } from "react-router-dom";
 import { useLeague } from "../hooks/useLeague";
@@ -40,6 +41,7 @@ const navItems = [
   { label: "Subs", path: "/subs", icon: <SubsIcon /> },
   { label: "Schedule", path: "/schedule", icon: <ScheduleIcon /> },
   { label: "Matchups", path: "/matchups", icon: <ScorecardIcon /> },
+  { label: "Scramble", path: "/scramble", icon: <SportsGolfIcon /> },
   { label: "Weeks", path: "/weeks", icon: <CalendarIcon /> },
   { label: "Handicaps", path: "/handicaps", icon: <HandicapIcon /> },
   { label: "Notes", path: "/notes", icon: <NotesIcon /> },
