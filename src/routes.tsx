@@ -12,6 +12,7 @@ import { Notes } from "./pages/Notes";
 import { Finance } from "./pages/Finance";
 import { Analytics } from "./pages/Analytics";
 import { Matchups } from "./pages/Matchups";
+import { Scramble } from "./pages/Scramble";
 
 export const router = createHashRouter([
   {
@@ -26,6 +27,7 @@ export const router = createHashRouter([
       { path: "/weeks/:weekNumber/results", element: <WeekResults /> },
       { path: "/handicaps", element: <Handicaps /> },
       { path: "/matchups", element: <Matchups /> },
+      { path: "/scramble", element: <Scramble /> },
       { path: "/notes", element: <Notes /> },
       { path: "/finance", element: <Finance /> },
       { path: "/analytics", element: <Analytics /> },
